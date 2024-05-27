@@ -1,0 +1,27 @@
+{
+  "name": "job-skip-backend",
+  "version": "1.0.0",
+  "description": "It is the backend for the job-skip portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aryamgupta/job-skip-backend.git"
+  },
+  "keywords": [
+    "job",
+    "skip",
+    "portal"
+  ],
+  "author": "Aryam Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aryamgupta/job-skip-backend/issues"
+  },
+  "homepage": "https://github.com/Aryamgupta/job-skip-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
